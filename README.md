@@ -1,6 +1,6 @@
 # ChatBotTelegram-re-factored
 ---
-- Simple Version - https://github.com/russianowner/ChatBotTelegram
+- Simple Version - https://github.com/russianowner/ChatBotTelegram-simple
 ---
 - Этот чат-бот в телеграмме, он отвечает пользователям в заданном стиле с базовой архитектурой кода
 ---
