@@ -2,7 +2,7 @@
 
 ---
 
-- Simple Version - https://github.com/russianowner/ChatBotTelegram
+- Simple Version - https://github.com/russianowner/ChatBotTelegram-simple
 
 ---
 - Телеграм бот, который ведет диалог с пользователем, в заданном нами настроении. 
