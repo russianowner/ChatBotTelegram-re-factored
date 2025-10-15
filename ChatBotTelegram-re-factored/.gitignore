@@ -3,7 +3,6 @@ obj/
 .vs/
 *.user
 *.suo
-appsettings.json
 .idea/
 .vscode/
 *.swp
