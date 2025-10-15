@@ -56,7 +56,7 @@
 -    "TelegramBotToken": "Бот кей",
 -    "TogetherApiKey": "Апи кей"
 -  }
--}
+- }
 	
 	- пишем токены внутрь ковычек
 ---
@@ -88,8 +88,8 @@
 -  "BotConfiguration": {
 - "TelegramBotToken": "bot keyT",
 - "TogetherApiKey": "api key"
+-  }
 - }
--}
 	
 	- we write tokens inside the buckets
 ---
