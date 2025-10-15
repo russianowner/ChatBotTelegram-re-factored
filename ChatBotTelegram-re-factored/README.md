@@ -2,7 +2,7 @@
 
 ---
 
--Simple Version - https://github.com/russianowner/ChatBotTelegram
+- Simple Version - https://github.com/russianowner/ChatBotTelegram
 
 ---
 - Телеграм бот, который ведет диалог с пользователем, в заданном нами настроении. 
@@ -46,20 +46,9 @@
 ---
 
 # Как пользоваться ботом?
-
-- Создаем appsettings.json
-- Внутри вставляем код:
----
-
-- {
--  "BotConfiguration": {
--    "TelegramBotToken": "Бот кей",
--    "TogetherApiKey": "Апи кей"
--  }
-- }
-	
-	- пишем токены внутрь ковычек
----
+- Копируем репозиторий
+- Заходим в appsettings.json
+- Меняем токен бота и апи кей
 - Открой файл Services/TogetherService.cs
 - Найди var payload, внутри него model, message и т.д - это параметры модели, которые можно менять
 - model — выбрать другую модель
@@ -75,24 +64,13 @@
 - Запускаем проект
 - пишем боту /start
 - общаемся
----
 
+---
 
 # How to use the bot?
-
-- Creating appsettings.json
-- We insert the code inside:
----
-
-- {
--  "BotConfiguration": {
-- "TelegramBotToken": "bot keyT",
-- "TogetherApiKey": "api key"
--  }
-- }
-	
-	- we write tokens inside the buckets
----
+- Copying the repository
+- Go to appsettings.json
+- Changing the bot token and API key
 - Open the Services/TogetherService.cs file
 - Find the var payload, inside it model, message, etc. - these are the model parameters that can be changed
 - model — choose another model
